@@ -28,6 +28,6 @@ Built a sentiment analysis tool using NLP techniques to classify text into Posit
 (Add bar chart / sentiment distribution graph here)
 
 ## 🚀 How to Run
-1. Clone the repository  
+1. Clone the repository 
 2. Install required libraries  
 3. Run the Python script / notebook  
